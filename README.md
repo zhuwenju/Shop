@@ -1,13 +1,3 @@
-# Shop-React-Native
-
-### Shop-React-Native 是基于 React Native 和 Redux 实现的电商类APP，同时运行在iOS和Android平台上。持续更新中，欢迎一起讨论学习！
-
-#### 如果你支持这个项目，请 Star and Fork Me。
-
-#### 注：有任何问题请在Issues提交，EleTeam会尽快回复。
-
-#### EleTeam开源项目 - 电商全套解决方案之 React Native 版 - Shop-React-Native。一个类似京东/天猫/淘宝的商城，有对应的服务端支持，由EleTeam团队维护！
-#### 服务端是PHP商城，对应项目是 Shop-PHP-Yii2，https://github.com/EleTeam/Shop-PHP-Yii2
 
 ### 功能如下:
     支持下拉刷新和上拖加载更多
