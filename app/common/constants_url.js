@@ -14,7 +14,7 @@
  */
 
 // const kUrlHost = 'http://local.api.eleteam.com/v1'; //本地服务器
-const kUrlHost = 'http://api.eleteam.com/v1';    //在线服务器
+const kUrlHost = 'http://atmen.top:8080/frame-admin/v1';    //在线服务器
 
 //产品和分类
 export const kUrlCategoryListWithProduct    = kUrlHost + '/category/list-with-product';
